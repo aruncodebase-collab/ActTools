@@ -1,1 +1,1 @@
-# IFRS 17 specific actuarial logic
+from .risk_adjustment import *
